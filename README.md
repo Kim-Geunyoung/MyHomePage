@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"><img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 
 ## 서비스 소개
-- 서비스 소개
+- 자신의 사진을 업로드하면 자신의 10년 뒤, 20년 뒤의 모습을 예측하여 보여주는 서비스 
 
 ### 데이터 수집 
 - 데이터 수집
